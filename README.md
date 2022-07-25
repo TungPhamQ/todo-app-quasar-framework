@@ -1,3 +1,4 @@
+# Follow this video https://www.youtube.com/watch?v=GV-D85D9KJQ
 # Quasar Todo (quasar-project)
 
  learn quasar
